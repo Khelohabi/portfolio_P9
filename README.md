@@ -1,0 +1,2 @@
+titre : Créez votre portfolio de Business Intelligence Analyst ou réalisez une application professionnelle
+Dans ce projet, j'ai créé un tableau de bord complet qui met en avant à la fois mes compétences acquises et les projets que j'ai réalisés. À l'aide de Tableau, j'ai développé des visualisations interactives qui illustrent ma maîtrise de divers outils tels qu'Excel, SQL, Python, Power BI et Tableau lui-même. Ce tableau de bord offre une vue claire de ma progression et des compétences que j'ai acquises à travers des projets concrets.
